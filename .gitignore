@@ -1,0 +1,9 @@
+# sbt project
+/target/
+/project/target/
+/.idea/
+*.log
+
+# Python environment
+env/
+
